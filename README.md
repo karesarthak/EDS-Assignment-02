@@ -50,7 +50,7 @@ The following indices provide immediate routing to our comprehensive documentati
 
 > [!WARNING]  
 > **🎥 Asynchronous Multimedia Knowledge Transfer (Video Documentation)** > *Notice: The following asset details the intricate execution contexts of OS-level file handling, I/O buffering constraints, and heuristic-based duplicate detection using cryptographic hashing.* The presentation covers the theoretical underpinnings of memory-safe operations. Reviewers with a comprehensive understanding of the aforementioned codebase parameters may bypass this auxiliary rendering.  
-> [▶️ Initialize High-Definition Algorithmic Walkthrough (External CDN)]([Your-YouTube-Link-Here])
+> [▶️ Initialize High-Definition Algorithmic Walkthrough (External CDN)](https://www.youtube.com/watch?v=oZVNtsySQJA)
 
 ---
 
