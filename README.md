@@ -16,21 +16,21 @@
 ---
 
 > [!TIP]
-> **Welcome to the Lab Repository** > This workspace contains all the practical implementations, data manipulation tasks, and visualization scripts for the EDS lab. Expand the practicals below or launch the cloud notebooks to view the code.
+> **Welcome to the Lab Repository** > This workspace contains all the practical implementations, data manipulation tasks, and visualization scripts for the EDS lab. Scroll down to view the full details of all lab modules and their respective code files.
 
 ---
 
-## 🗂️ Quick Access & Colab Links
+## 🗂️ Quick Access & Cloud Links
 
-> **Practical 01: Python Fundamentals** > Local files only.
+> **Practical 01: Python Fundamentals** > [📄 View EDS Practical 1.pdf](./EDS%20Practical%201.pdf)
 
-> **Practical 02: Data Structures (List, Dict, Tuple)** > Local files only.
+> **Practical 02: Data Structures (List, Dict, Tuple)** > [📄 View EDS Practical 2.pdf](./EDS%20Practical%202.pdf)
 
-> **Practical 03: NumPy Operations** > [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CISx8HK6bi5j-TFaB_LV0qu5jUrSAU7M?usp=sharing)
+> **Practical 03: NumPy Operations** > [📄 View EDS Practical 3.pdf](./EDS%20Practical%203.pdf) &nbsp;|&nbsp; [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CISx8HK6bi5j-TFaB_LV0qu5jUrSAU7M?usp=sharing)
 
-> **Practical 04: Pandas & Data Manipulation** > [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hJhLE_ELuz1CI4jSqK_zrYMxlyNwkBZS?usp=sharing)
+> **Practical 04: Pandas & Data Manipulation** > [📄 View EDS Practical 4.pdf](./EDS%20Practical%204.pdf) &nbsp;|&nbsp; [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hJhLE_ELuz1CI4jSqK_zrYMxlyNwkBZS?usp=sharing)
 
-> **Practical 05: Matplotlib & Data Visualization** > [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gHZwRh8l6aYw_mwVcgrbo1oTgGslSCLn?usp=sharing)
+> **Practical 05: Matplotlib & Data Visualization** > [📄 View EDS Practical 5.pdf](./EDS%20Practical%205.pdf) &nbsp;|&nbsp; [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gHZwRh8l6aYw_mwVcgrbo1oTgGslSCLn?usp=sharing)
 
 ---
 
@@ -54,13 +54,7 @@
 
 ## 💻 Lab Modules & Code
 
-*Click on any module to expand the details and access the local source files.*
-
-<details>
-<summary><b><span style="font-size:1.2em;">🐍 Practical 01 — Python Fundamentals</span></b></summary>
-
-<br>
-
+### 🐍 Practical 01 — Python Fundamentals
 > **CO Mapped:** CO1 | **Duration:** 6 Hours
 
 **✅ Practice Lab Assignments**
@@ -74,13 +68,9 @@
 * [Recursive Fibonacci Sequence](./Practical_01/lab_02_fibonacci.py)
 * [Python Pattern Printer](./Practical_01/lab_03_patterns.py)
 
-</details>
+---
 
-<details>
-<summary><b><span style="font-size:1.2em;">📦 Practical 02 — Data Structures</span></b></summary>
-
-<br>
-
+### 📦 Practical 02 — Data Structures
 > **CO Mapped:** CO2 | **Duration:** 6 Hours
 
 **✅ Practice Lab Assignments**
@@ -90,13 +80,9 @@
 * [Linear Search Implementation](./Practical_02/lab_01_linear_search.py)
 * [Cricket Captain Finder (Dictionary)](./Practical_02/lab_02_cricket_captain.py)
 
-</details>
+---
 
-<details>
-<summary><b><span style="font-size:1.2em;">🔢 Practical 03 — NumPy Operations</span></b></summary>
-
-<br>
-
+### 🔢 Practical 03 — NumPy Operations
 > **CO Mapped:** CO3 | **Duration:** 6 Hours
 
 **✅ Practice Lab Assignment**
@@ -108,13 +94,9 @@
 * Statistical, mathematical, and bitwise operations.
 * **Notebook:** [numpy_operations.ipynb](./numpy_operations.ipynb)
 
-</details>
+---
 
-<details>
-<summary><b><span style="font-size:1.2em;">🐼 Practical 04 — Pandas & Data Manipulation</span></b></summary>
-
-<br>
-
+### 🐼 Practical 04 — Pandas & Data Manipulation
 > **CO Mapped:** CO4 | **Duration:** 6 Hours
 
 **✅ Practice Lab Assignment**
@@ -125,13 +107,9 @@
 * Implemented **20 analytical grains** (e.g., *Best sales month? Most sold product? Top city?*).
 * **Notebook:** [pandas_operations.ipynb](./pandas_operations.ipynb)
 
-</details>
+---
 
-<details>
-<summary><b><span style="font-size:1.2em;">📈 Practical 05 — Matplotlib & Data Visualization</span></b></summary>
-
-<br>
-
+### 📈 Practical 05 — Matplotlib & Data Visualization
 > **CO Mapped:** CO5 | **Duration:** 6 Hours
 
 **✅ Practice Lab Assignment**
@@ -142,8 +120,6 @@
 * Extracted **5 grains** and visualized them using 5 distinct graph types (Bar, Line, Scatter, Pie, Histogram).
 * Included professional labels, legends, and styling.
 * **Notebook:** [matplotlib_visualization.ipynb](./matplotlib_operations.ipynb)
-
-</details>
 
 ---
 
