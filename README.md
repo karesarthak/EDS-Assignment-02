@@ -1,11 +1,11 @@
 <div align="center">
   
-  # 📊 Enterprise-Grade Data Science Architecture & Lab Implementations
+  # 📊 Essentials of Data Science & Lab Implementations
   
   <p><b>Course Designator: 2304102L • First Year B.Tech Data Science (Rev. 2023 NEP)</b></p>
 
   <p>
-    <kbd>👤 Lead Architect: Sarthak Kare</kbd> &nbsp;
+    <kbd>👤 Name: Sarthak Kare</kbd> &nbsp;
     <kbd>🏫 MIT Academy of Engineering</kbd> &nbsp;
     <kbd>📅 Academic Cycle: 2025–2026</kbd> &nbsp;
     <kbd>⚙️ Environment: Python 3.10+ | Conda</kbd>
